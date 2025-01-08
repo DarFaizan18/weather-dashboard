@@ -1,10 +1,8 @@
-1. Project Title
 # Weather Dashboard
 
-2. Project Description
 A weather dashboard that fetches real-time weather data for multiple cities using the OpenWeather API and stores the data in AWS S3 also shows the results on terminal.
 
-3. Table of Contents
+
 ## Table of Contents
 - [Features](#features)
 - [Setup](#setup)
@@ -13,13 +11,12 @@ A weather dashboard that fetches real-time weather data for multiple cities usin
 - [Contributing](#contributing)
 - [License](#license)
 
-4. Features
+
 ## Features
 - Fetches weather data for multiple cities.
 - Stores weather data in an AWS S3 bucket.
 - Displays temperature, humidity, and weather conditions.
 
-5. Setup
 ## Setup
 
 ### Prerequisites
@@ -34,12 +31,15 @@ A weather dashboard that fetches real-time weather data for multiple cities usin
    git clone https://github.com/DarFaizan18/weather-dashboard.git
 
 2. Navigate to the project directory:
+   ```bash
    cd weather-dashboard
 
 3. Install dependencies:
+   ```bash
    pip install -r src/requirements.txt
 
 4. Configure environment variables in src/.env:
+   ```bash
    OPENWEATHER_API_KEY=your_api_key
    AWS_BUCKET_NAME=your_bucket_name
 
