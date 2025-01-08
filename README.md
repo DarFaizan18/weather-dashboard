@@ -1,4 +1,4 @@
-![Weather Dashboard Cover](weather-dashboard\f93b01f3-cbb7-4bc9-9772-23a389b31309.webp)
+![Weather Dashboard Cover](weather-dashboard\image.jpeg)
 
 # Weather Dashboard
 
