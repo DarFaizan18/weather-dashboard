@@ -1,4 +1,4 @@
-![Weather Dashboard Cover](weather-dashboard\image.jpeg)
+![Weather Dashboard Cover](weather-dashboard/image.jpeg)
 
 # Weather Dashboard
 
