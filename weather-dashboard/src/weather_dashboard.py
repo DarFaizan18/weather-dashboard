@@ -1,7 +1,7 @@
 import os
 import json
 import boto3
-import requests
+import requests 
 from datetime import datetime
 from dotenv import load_dotenv
 
