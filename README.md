@@ -1,3 +1,5 @@
+![Weather Dashboard Cover](weather-dashboard\f93b01f3-cbb7-4bc9-9772-23a389b31309.webp)
+
 # Weather Dashboard
 
 A weather dashboard that fetches real-time weather data for multiple cities using the OpenWeather API and stores the data in AWS S3 also shows the results on terminal.
